@@ -5,7 +5,7 @@ Contact Tracing - Czechia
 
 Play Store | https://play.google.com/store/apps/details?id=cz.covid19cz.erouska
 -----------|-------------------------------------------------------------------
-Sources | https://github.com/covid19cz/
+Sources | https://github.com/covid19cz?q=erouska
 
 - APKLAB Analysis
 
