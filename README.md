@@ -1,7 +1,7 @@
 # CZ
 Contact Tracing - Czechia
 
-**eRouška** developed by COVID19CZ (joint activity of Czech technology companies and IT enthusiasts).
+**eRouška** developed by COVID19CZ (joint activity of Czech technology companies & IT enthusiasts).
 
 Decentralized solution. It requires to register the device phone number (anti-abuse & contact measures).
 
