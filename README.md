@@ -14,6 +14,7 @@ Website | https://erouska.cz/
 
 Build | Link
 ------|-----
+1.0.437 #437 | https://apklab.io/apk.html?hash=7ff0cbc5e497fb671a6e907ee65b33adedd5dac1064007754763d2deff4b98e6
 1.0.424 #424 | https://apklab.io/apk.html?hash=ab54b115232f9f6af591545871e193fb8469d96524f5fbdf537255aed0f8f3a4
 
 - JoeSandbox Report
